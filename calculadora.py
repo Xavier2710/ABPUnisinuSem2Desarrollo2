@@ -33,3 +33,4 @@ def menu():
 
 
 menu()
+print("FIN")
